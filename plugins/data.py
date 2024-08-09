@@ -91,7 +91,7 @@ ODD = {
         'Chukki_Taare_':['https://graph.org/file/c511bf699a79f9ab29fa0.jpg','seturl.in','dbd6b19d4e6413881d191311adaaf6f152d7ac35',''],
         'Ninagaagi_':['https://graph.org/file/345f7d576a7dd84b52ae7.jpg','seturl.in','dbd6b19d4e6413881d191311adaaf6f152d7ac35',''],
         'Nanna_Devaru_':['https://graph.org/file/ced76338652c470df6e81.jpg','kingurl.in','e096514a6f0e699170dcf87b7a6aae271f52b86d',''],
-        'Saviruchi_':['','kingurl.in','e096514a6f0e699170dcf87b7a6aae271f52b86d',''],
+        'Saviruchi_':['https://graph.org/file/49d2bd07c1cd1127485e0.jpg','kingurl.in','e096514a6f0e699170dcf87b7a6aae271f52b86d',''],
         
         'Neenadhe_Naa_':['https://graph.org/file/fcbbf0a8c0413d4a59ad9.jpg','seturl.in','dbd6b19d4e6413881d191311adaaf6f152d7ac35',''],
         'Namma_Lachi_':['https://graph.org/file/b315e59c10e04d1b2e595.jpg','seturl.in','dbd6b19d4e6413881d191311adaaf6f152d7ac35',''],
@@ -181,6 +181,9 @@ EVEN = {
         'Shreegowri_':['https://graph.org/file/3cf54af8dcac7caf06c5e.jpg','seturl.in','dbd6b19d4e6413881d191311adaaf6f152d7ac35',''],
         'Karimani_':['https://graph.org/file/309839d1a79ec3835a776.jpg','instantearn.in','3040f2de4308af9c4c079a0d9e0fefbc05304345',''],
         'Chukki_Taare_':['https://graph.org/file/c511bf699a79f9ab29fa0.jpg','seturl.in','dbd6b19d4e6413881d191311adaaf6f152d7ac35',''],
+        'Ninagaagi_':['https://graph.org/file/345f7d576a7dd84b52ae7.jpg','seturl.in','dbd6b19d4e6413881d191311adaaf6f152d7ac35',''],
+        'Nanna_Devaru_':['https://graph.org/file/ced76338652c470df6e81.jpg','kingurl.in','e096514a6f0e699170dcf87b7a6aae271f52b86d',''],
+        'Saviruchi_':['https://graph.org/file/49d2bd07c1cd1127485e0.jpg','kingurl.in','e096514a6f0e699170dcf87b7a6aae271f52b86d',''],
         
         'Neenadhe_Naa_':['https://graph.org/file/fcbbf0a8c0413d4a59ad9.jpg','kingurl.in','e096514a6f0e699170dcf87b7a6aae271f52b86d',''],
         'Namma_Lachi_':['https://graph.org/file/b315e59c10e04d1b2e595.jpg','kingurl.in','e096514a6f0e699170dcf87b7a6aae271f52b86d',''],
